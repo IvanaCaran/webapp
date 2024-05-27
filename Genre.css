@@ -1,0 +1,135 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.button.antike {
+    background-color: white;
+    color: #000000;
+    border: none;
+    padding: 50px 200px;
+    margin: 10px 0;
+    font-size: 16px;
+    width: 300px; 
+    height: 50px; 
+    cursor: pointer;
+    text-align: center;
+}
+
+.button.mittelalter {
+    background-color: white;
+    color: #000000;
+    border: none;
+    padding: 50px 200px;
+    margin: 10px 0;
+    font-size: 16px;
+    width: 300px; 
+    height: 50px; 
+    cursor: pointer;
+    text-align: center;
+}
+
+.button.renaissance {
+    background-color: white;
+    color: #000000;
+    border: none;
+    padding: 50px 200px;
+    margin: 10px 0;
+    font-size: 16px;
+    width: 300px; 
+    height: 50px; 
+    cursor: pointer;
+    text-align: center;
+}
+
+.button.barock {
+    background-color: white;
+    color: #000000;
+    border: none;
+    padding: 50px 200px;
+    margin: 10px 0;
+    font-size: 16px;
+    width: 300px; 
+    height: 50px; 
+    cursor: pointer;
+    text-align: center;
+}
+
+.button.klassizimus {
+    background-color: white;
+    color: #000000;
+    border: none;
+    padding: 50px 200px;
+    margin: 10px 0;
+    font-size: 16px;
+    width: 300px; 
+    height: 50px; 
+    cursor: pointer;
+    text-align: center;
+}
+
+.button.romantik {
+    background-color: white;
+    color: #000000;
+    border: none;
+    padding: 50px 200px;
+    margin: 10px 0;
+    font-size: 16px;
+    width: 300px; 
+    height: 50px; 
+    cursor: pointer;
+    text-align: center;
+}
+
+.button.impressionismus {
+    background-color: white;
+    color: #000000;
+    border: none;
+    padding: 50px 200px;
+    margin: 10px 0;
+    font-size: 16px;
+    width: 300px; 
+    height: 50px; 
+    cursor: pointer;
+    text-align: center;
+}
+
+
+.button.zurück {
+    .button.zurück {
+        position: absolute;
+        top: 10px; 
+        left: 100px; 
+        width: 107px; 
+        height: auto; 
+    }
+}
+
+.button.antike,
+.button.mittelalter,
+.button.renaissance,
+.button.barock,
+.button.klassizimus,
+.button.romantik,
+.button.impressionismus {
+    width: 387px; /* Spezielle Breite für die Genre Buttons */
+}
+
+.button.antike { height: 78px; }
+.button.mittelalter { height: 78px; }
+.button.renaissance { height: 78px; }
+.button.barock { height: 078px; }
+.button.klassizimus { height: 78px; }
+.button.romantik { height: 78px; }
+.button.impressionismus { height: 78px; }
