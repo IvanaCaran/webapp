@@ -107,14 +107,11 @@ body {
 
 
 .button.zurück {
-    .button.zurück {
-        position: absolute;
         top: 10px; 
         left: 100px; 
         width: 107px; 
         height: auto; 
     }
-}
 
 .button.antike,
 .button.mittelalter,
@@ -123,7 +120,7 @@ body {
 .button.klassizimus,
 .button.romantik,
 .button.impressionismus {
-    width: 387px; /* Spezielle Breite für die Genre Buttons */
+    width: 387px;
 }
 
 .button.antike { height: 78px; }
